@@ -11,4 +11,7 @@ log_entries.txt
 // Tmux logs
 *.log
 
+// Sensitive info
+config.js
+
 

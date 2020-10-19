@@ -3,3 +3,11 @@ node_modules
 
 // MacOs
 .DS_Store
+
+// Personal notes
+log_entries.txt
+
+// Tmux logs
+*.log
+
+

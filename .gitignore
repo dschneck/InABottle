@@ -6,6 +6,7 @@ node_modules
 
 // Personal notes
 log_entries.txt
+.log_entries.txt.swp
 
 // Tmux logs
 *.log
